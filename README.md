@@ -65,7 +65,7 @@ This analysis underscores the importance of **data quality**, **budget efficienc
 
 1. Clone the repository:
     ```
-    git clone <repository_url>
+    gh repo clone Jagroop-Dev/Movies_EDA_Jagroop
     ```
 
 2. Run the Jupyter Notebook for the full analysis.
